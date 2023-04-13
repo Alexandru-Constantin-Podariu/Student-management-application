@@ -1,0 +1,4 @@
+repository = inmemory
+students = students.txt
+disciplines = disciplines.txt
+grades = grades.txt
